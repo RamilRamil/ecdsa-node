@@ -8,7 +8,7 @@ app.use(express.json());
 
 const balances = {
   "0x1": 100,
-  "0x2": 50,
+  "04263b58d2ea6fc882f8e302c02178745f294a22e9e181abc5cf7c86253e3d988ecb433cde54eedf2d6c9f8b13ca74d5427cf074386ce4d6461d9a7e38d20dcb11": 50,
   "0x3": 75,
 };
 
